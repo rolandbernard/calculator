@@ -2,7 +2,7 @@ Calculator
 ==========
 This is one of my oldest projects, and as such it is quite bad. I myself don't realy know what exactly is going in.
 I wrote it before I had any formal education in computer science or programming. It was originaly developed to be run
-on a Arduino compatible microcontroller and was later ported to Visual C++ (This was before my switch to GNU, Linux and FOSS) and SDL.
+on a Arduino compatible microcontroller and was later ported to Visual C++ and SDL.
 
 I have now made the program compile and run using g++ or clang++. I have not changed more than neccesary, and therefore the program
 still contains memory leaks, compiling it will generate a lot of warnings and is generaly not programmed well.
